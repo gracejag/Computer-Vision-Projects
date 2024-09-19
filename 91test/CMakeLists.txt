@@ -1,6 +1,0 @@
-set (CMAKE_CXX_STANDARD 11)
-cmake_minimum_required(VERSION 2.8)
-project( 91 )
-find_package( OpenCV REQUIRED )
-add_executable( 91 91.cpp )
-target_link_libraries( 91 ${OpenCV_LIBS} )
