@@ -1,0 +1,3 @@
+/Users/gracejagga/OpenCVProjects/Project8.2/CMakeFiles/l082.dir
+/Users/gracejagga/OpenCVProjects/Project8.2/CMakeFiles/edit_cache.dir
+/Users/gracejagga/OpenCVProjects/Project8.2/CMakeFiles/rebuild_cache.dir

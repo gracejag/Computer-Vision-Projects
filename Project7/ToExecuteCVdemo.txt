@@ -1,0 +1,4 @@
+cd <DisplayImage_directory>
+cmake .
+make
+./DisplayImage waterbear.jpg
